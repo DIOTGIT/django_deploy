@@ -2,7 +2,7 @@
 
 ### infó:  [https://www.wpdiaries.com/virtualbox-for-web-development/](https://www.wpdiaries.com/virtualbox-for-web-development/)  
   
-VM hálózat: 1. bridge, többi letiltva
+-   VM hálózat: 1. bridge, többi letiltva
 
 parancsok:
 
