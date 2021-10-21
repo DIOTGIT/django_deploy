@@ -6,7 +6,6 @@ infó: https://www.youtube.com/watch?v=437o1UUQUhY
  - megegyező verziójú excentsion pack letöltése és hozzáadása : https://www.youtube.com/watch?v=efSIZA15lWM 
  - sudo apt-get update 
  - sudo apt-get upgrade -y
- - sudo apt-get install dkms -y
  - (izé lemez futtatása)
  - sudo shutdown now
  --- 
