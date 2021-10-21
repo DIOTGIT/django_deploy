@@ -24,3 +24,5 @@ infó: https://www.youtube.com/watch?v=437o1UUQUhY
 **install git, python**
 - sudo apt-get install git
 - sudo apt install -y python3-pip python3-venv
+- git config --global user.name "DIOTGIT"
+- git config --global user.email "diothomeautomation@gmail.com"
