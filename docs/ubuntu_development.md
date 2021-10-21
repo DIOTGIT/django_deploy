@@ -2,6 +2,8 @@
 infó: https://www.youtube.com/watch?v=437o1UUQUhY
 
 **Linux update**
+ - guest lemez futtatása
+ - megegyező verziójú excentsion pack letöltése és hozzáadása : https://www.youtube.com/watch?v=efSIZA15lWM 
  - sudo apt-get update 
  - sudo apt-get upgrade -y
  - sudo apt-get install dkms -y
