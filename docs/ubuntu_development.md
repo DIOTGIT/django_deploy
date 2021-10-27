@@ -26,3 +26,11 @@ infó: https://www.youtube.com/watch?v=437o1UUQUhY
 - sudo apt install -y python3-pip python3-venv
 - git config --global user.name "DIOTGIT"
 - git config --global user.email "diothomeautomation@gmail.com"
+---
+**install Bulidozer for kivy**
+https://buildozer.readthedocs.io/en/latest/installation.html
+- pip3 install --upgrade buildozer
+- sudo apt update
+- sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
+- pip3 install --upgrade Cython==0.29.19 virtualenv
+- export PATH=$PATH:~/.local/bin/
